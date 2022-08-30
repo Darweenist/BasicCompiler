@@ -8,3 +8,6 @@ The outputFileName parameter in the third line of code refers to the output file
 You can edit these file names as you like.
 
 After running the main function in ```Parser.java```, the output file can then be run in MARS or QTSPIM to test the validity of the compiler.
+
+
+This project was created by Dawson Chen, for a Compilers and Interpreters class.
