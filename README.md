@@ -1,5 +1,5 @@
 # PascalCompiler
-A compiler written in Java for a Pascal-like programming language.
+A compiler written in Java for a Pascal-like programming language. Course project from Fall 2019.
 
 In order to test the compiler, download the code and run the main function in ```Parser.java```.
 
