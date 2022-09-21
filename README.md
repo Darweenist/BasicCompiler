@@ -10,4 +10,4 @@ You can edit these file names as you like.
 After running the main function in ```Parser.java```, the output file can then be run in MARS or QTSPIM to test the validity of the compiler.
 
 
-This project was created by Dawson Chen, for a Compilers and Interpreters class.
+This project was created by Dawson Chen, for a Compilers and Interpreters class in Fall of 2019 (10th Grade).
